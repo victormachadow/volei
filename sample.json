@@ -1,0 +1,3980 @@
+{
+  "507":{
+    "targetX":914.72485351563,
+    "normY":-0.61562422499873,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78803985533392
+  },
+  "158":{
+    "targetX":645.1103515625,
+    "normY":-0.81085134711061,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.58525216179772
+  },
+  "758":{
+    "targetX":839.56207275391,
+    "normY":-0.66620717438848,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74576672008968
+  },
+  "222":{
+    "targetX":866.02569580078,
+    "normY":-0.64516860614343,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76404022776745
+  },
+  "759":{
+    "targetX":592.32904052734,
+    "normY":-0.85087898850822,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.52536172958755
+  },
+  "887":{
+    "targetX":698.71484375,
+    "normY":-0.76403529960347,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.6451744422711
+  },
+  "632":{
+    "targetX":892.83306884766,
+    "normY":-0.62669622192355,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77926365591291
+  },
+  "317":{
+    "targetX":856.13348388672,
+    "normY":-0.65677889841943,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75408320402391
+  },
+  "381":{
+    "targetX":751.47290039063,
+    "normY":-0.72533258203135,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.68839860941444
+  },
+  "445":{
+    "targetX":884.99920654297,
+    "normY":-0.6376894425784,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77029356405467
+  },
+  "634":{
+    "targetX":803.03942871094,
+    "normY":-0.68816570949195,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72555355162761
+  },
+  "191":{
+    "targetX":838.89587402344,
+    "normY":-0.6746700289413,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73811947003744
+  },
+  "890":{
+    "targetX":891.91271972656,
+    "normY":-0.63800358807776,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77003338992534
+  },
+  "255":{
+    "targetX":836.99841308594,
+    "normY":-0.67735361857337,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73565758026786
+  },
+  "763":{
+    "targetX":515.42846679688,
+    "normY":-0.90301231566397,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.42961466194625
+  },
+  "28":{
+    "targetX":697.49200439453,
+    "normY":-0.76496208449643,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.6440753133624
+  },
+  "32":{
+    "targetX":580.84851074219,
+    "normY":-0.85993560921542,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.5104025352634
+  },
+  "40":{
+    "targetX":836.30926513672,
+    "normY":-0.66909788738724,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7431742844676
+  },
+  "56":{
+    "targetX":889.99920654297,
+    "normY":-0.64352365033545,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76542622861968
+  },
+  "637":{
+    "targetX":845.78381347656,
+    "normY":-0.65759191116539,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7533743281861
+  },
+  "765":{
+    "targetX":780.97827148438,
+    "normY":-0.71121476366188,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.70297479325319
+  },
+  "447":{
+    "targetX":818.39611816406,
+    "normY":-0.68401615051481,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72946686411029
+  },
+  "160":{
+    "targetX":563.70617675781,
+    "normY":-0.86710282430224,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.49812919216513
+  },
+  "766":{
+    "targetX":532.32922363281,
+    "normY":-0.89233950406159,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.45136482970111
+  },
+  "639":{
+    "targetX":908.35461425781,
+    "normY":-0.63008587206698,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77652546244253
+  },
+  "767":{
+    "targetX":796.63262939453,
+    "normY":-0.7024203999309,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7117623070667
+  },
+  "895":{
+    "targetX":610.96569824219,
+    "normY":-0.83122350532764,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.55593838164929
+  },
+  "513":{
+    "targetX":924.14392089844,
+    "normY":-0.60998538782695,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79241266183574
+  },
+  "641":{
+    "targetX":873.26751708984,
+    "normY":-0.63514697294161,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77239130158432
+  },
+  "769":{
+    "targetX":719.07482910156,
+    "normY":-0.75774143140665,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.65255491962731
+  },
+  "449":{
+    "targetX":799.40496826172,
+    "normY":-0.68536452550856,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72820015598353
+  },
+  "129":{
+    "targetX":802.77947998047,
+    "normY":-0.69960060408363,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71453411028853
+  },
+  "642":{
+    "targetX":822.77941894531,
+    "normY":-0.68033655854273,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73289983429541
+  },
+  "225":{
+    "targetX":903.67572021484,
+    "normY":-0.61768318014401,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78642703982453
+  },
+  "258":{
+    "targetX":838.86627197266,
+    "normY":-0.66442365728209,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74735614244074
+  },
+  "643":{
+    "targetX":601.72351074219,
+    "normY":-0.84187224850658,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.53967686368277
+  },
+  "771":{
+    "targetX":916.98303222656,
+    "normY":-0.61911616924029,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78529941359027
+  },
+  "450":{
+    "targetX":894.99914550781,
+    "normY":-0.62919337786877,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77724879751987
+  },
+  "900":{
+    "targetX":680,
+    "normY":-0.77234124409686,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63520784210124
+  },
+  "65":{
+    "targetX":780.59741210938,
+    "normY":-0.70657921017846,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.70763395886828
+  },
+  "97":{
+    "targetX":596.91400146484,
+    "normY":-0.84883967431481,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.5286503639544
+  },
+  "113":{
+    "targetX":902.49890136719,
+    "normY":-0.6176214112108,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78647555105927
+  },
+  "130":{
+    "targetX":854.40435791016,
+    "normY":-0.66745139916308,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74465336214594
+  },
+  "162":{
+    "targetX":653.57806396484,
+    "normY":-0.79634217190557,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.60484638152569
+  },
+  "194":{
+    "targetX":799.78686523438,
+    "normY":-0.6843543155257,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72914962169732
+  },
+  "226":{
+    "targetX":843.55725097656,
+    "normY":-0.66440361334209,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7473739616671
+  },
+  "260":{
+    "targetX":701.53778076172,
+    "normY":-0.76634792289101,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.64242576308911
+  },
+  "775":{
+    "targetX":828.8876953125,
+    "normY":-0.66811033183025,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74406221816571
+  },
+  "452":{
+    "targetX":901.37322998047,
+    "normY":-0.62219628898225,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78286127632979
+  },
+  "904":{
+    "targetX":863.67205810547,
+    "normY":-0.64440299023274,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76468607034462
+  },
+  "261":{
+    "targetX":680,
+    "normY":-0.76789301364774,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.64057811357476
+  },
+  "325":{
+    "targetX":773.01574707031,
+    "normY":-0.70410367537179,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71009718653712
+  },
+  "777":{
+    "targetX":839.17205810547,
+    "normY":-0.67524982537019,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73758909518615
+  },
+  "905":{
+    "targetX":548.71765136719,
+    "normY":-0.88163397138205,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.47193383064271
+  },
+  "131":{
+    "targetX":857.48828125,
+    "normY":-0.65608267248075,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75468902660004
+  },
+  "650":{
+    "targetX":826.32897949219,
+    "normY":-0.67940251612431,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73376578080744
+  },
+  "778":{
+    "targetX":923.92956542969,
+    "normY":-0.60778761735052,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79409962359604
+  },
+  "227":{
+    "targetX":790.59631347656,
+    "normY":-0.70309465859218,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71109626708284
+  },
+  "779":{
+    "targetX":899.15325927734,
+    "normY":-0.63937134850458,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76889809384042
+  },
+  "907":{
+    "targetX":903.68621826172,
+    "normY":-0.6269022754599,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77909789951148
+  },
+  "652":{
+    "targetX":801.64782714844,
+    "normY":-0.70245623629292,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7117269392774
+  },
+  "49":{
+    "targetX":844.20825195313,
+    "normY":-0.65649345033592,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75433172388946
+  },
+  "908":{
+    "targetX":851.21630859375,
+    "normY":-0.64792390529112,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76170506953302
+  },
+  "263":{
+    "targetX":917.55810546875,
+    "normY":-0.61545802074475,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78816966745806
+  },
+  "82":{
+    "targetX":826.01702880859,
+    "normY":-0.68250847805302,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73087767607565
+  },
+  "98":{
+    "targetX":919.9990234375,
+    "normY":-0.62234374710274,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78274405806886
+  },
+  "114":{
+    "targetX":767.64709472656,
+    "normY":-0.71156152981136,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.70262378930158
+  },
+  "132":{
+    "targetX":707.91485595703,
+    "normY":-0.76534888042607,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.64361563936138
+  },
+  "654":{
+    "targetX":916.70007324219,
+    "normY":-0.61520425910835,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78836775655461
+  },
+  "228":{
+    "targetX":564.78308105469,
+    "normY":-0.8636493314091,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.50409307906041
+  },
+  "264":{
+    "targetX":840.78381347656,
+    "normY":-0.65863054427721,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75246648174195
+  },
+  "655":{
+    "targetX":628.28991699219,
+    "normY":-0.81217170789604,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.58341847493307
+  },
+  "392":{
+    "targetX":736.88098144531,
+    "normY":-0.73947176891435,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.67318756894248
+  },
+  "656":{
+    "targetX":533.29235839844,
+    "normY":-0.89487281542683,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.44632123432576
+  },
+  "912":{
+    "targetX":821.75286865234,
+    "normY":-0.6691834315009,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74309725810602
+  },
+  "265":{
+    "targetX":881.23352050781,
+    "normY":-0.63087408931204,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77588522568399
+  },
+  "329":{
+    "targetX":720.66906738281,
+    "normY":-0.74411976298948,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.66804623966345
+  },
+  "133":{
+    "targetX":871.09497070313,
+    "normY":-0.65019678028822,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75976585005042
+  },
+  "658":{
+    "targetX":910.78356933594,
+    "normY":-0.63084336099472,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77591020993984
+  },
+  "197":{
+    "targetX":698.34918212891,
+    "normY":-0.76874287872041,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63955796173346
+  },
+  "229":{
+    "targetX":879.99871826172,
+    "normY":-0.63703338175287,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7708362151148
+  },
+  "266":{
+    "targetX":628.33557128906,
+    "normY":-0.81557984731797,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.5786445477569
+  },
+  "659":{
+    "targetX":647.3037109375,
+    "normY":-0.80919882283597,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.58753490544893
+  },
+  "394":{
+    "targetX":886.22186279297,
+    "normY":-0.64520594075022,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76400870022574
+  },
+  "915":{
+    "targetX":546.13452148438,
+    "normY":-0.88499392563858,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.46560256827342
+  },
+  "532":{
+    "targetX":887.27471923828,
+    "normY":-0.63401173374732,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77332342617479
+  },
+  "660":{
+    "targetX":825.78387451172,
+    "normY":-0.66869940543227,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74353285413257
+  },
+  "788":{
+    "targetX":518.08544921875,
+    "normY":-0.90575837628999,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.42379448295196
+  },
+  "267":{
+    "targetX":924.28106689453,
+    "normY":-0.61455595070322,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78887323661996
+  },
+  "83":{
+    "targetX":725.45190429688,
+    "normY":-0.753064668316,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.65794650643811
+  },
+  "789":{
+    "targetX":543.81536865234,
+    "normY":-0.88590971143482,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.46385771868696
+  },
+  "115":{
+    "targetX":833.46954345703,
+    "normY":-0.68122564880664,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73207350410186
+  },
+  "134":{
+    "targetX":765.42742919922,
+    "normY":-0.71390488166336,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7002426864575
+  },
+  "662":{
+    "targetX":870.78369140625,
+    "normY":-0.64741192235109,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7621402776377
+  },
+  "790":{
+    "targetX":772.77960205078,
+    "normY":-0.70644865256163,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.70776429783781
+  },
+  "918":{
+    "targetX":674.39483642578,
+    "normY":-0.7776592540746,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62868599837449
+  },
+  "535":{
+    "targetX":919.15832519531,
+    "normY":-0.62583080590031,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7799588465978
+  },
+  "332":{
+    "targetX":830.78381347656,
+    "normY":-0.66757966704074,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74453837251936
+  },
+  "536":{
+    "targetX":842.73449707031,
+    "normY":-0.6670538400577,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74500951300253
+  },
+  "664":{
+    "targetX":885.119140625,
+    "normY":-0.64360158849197,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76536069620187
+  },
+  "792":{
+    "targetX":895.296875,
+    "normY":-0.63664091605489,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77116038798994
+  },
+  "397":{
+    "targetX":897.224609375,
+    "normY":-0.62858307642074,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77774244839628
+  },
+  "921":{
+    "targetX":773.85180664063,
+    "normY":-0.71479391609195,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.69933515392688
+  },
+  "135":{
+    "targetX":863.85314941406,
+    "normY":-0.64042177426654,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7680234052718
+  },
+  "666":{
+    "targetX":914.59539794922,
+    "normY":-0.62407495285491,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78136448167238
+  },
+  "794":{
+    "targetX":909.72473144531,
+    "normY":-0.61164024521334,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79113602524178
+  },
+  "231":{
+    "targetX":662.93835449219,
+    "normY":-0.80238959702904,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.5968005819196
+  },
+  "539":{
+    "targetX":568.79943847656,
+    "normY":-0.86235754825025,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.50629977185045
+  },
+  "334":{
+    "targetX":607.32897949219,
+    "normY":-0.82933892826974,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.55874586535955
+  },
+  "29":{
+    "targetX":666.00500488281,
+    "normY":-0.78727639262333,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.61660026079948
+  },
+  "34":{
+    "targetX":668.57580566406,
+    "normY":-0.78108740917072,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62442169984312
+  },
+  "42":{
+    "targetX":883.00537109375,
+    "normY":-0.64048023224588,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7679746558984
+  },
+  "50":{
+    "targetX":830.72344970703,
+    "normY":-0.68220598447221,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73116003361118
+  },
+  "271":{
+    "targetX":775.59790039063,
+    "normY":-0.71152611101137,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.70265965683895
+  },
+  "84":{
+    "targetX":709.50915527344,
+    "normY":-0.76101707723539,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.64873184610909
+  },
+  "100":{
+    "targetX":811.87921142578,
+    "normY":-0.69129573392007,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72257193985368
+  },
+  "116":{
+    "targetX":836.73822021484,
+    "normY":-0.67465138815458,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73813650801264
+  },
+  "542":{
+    "targetX":837.52478027344,
+    "normY":-0.67268174473041,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73993193626606
+  },
+  "168":{
+    "targetX":870.13500976563,
+    "normY":-0.65740775531584,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75353503120332
+  },
+  "798":{
+    "targetX":854.68505859375,
+    "normY":-0.66368031083723,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74801634006684
+  },
+  "232":{
+    "targetX":838.47784423828,
+    "normY":-0.65558628454687,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75512027089334
+  },
+  "671":{
+    "targetX":537.32922363281,
+    "normY":-0.89273694327588,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.4505782397214
+  },
+  "799":{
+    "targetX":845.12640380859,
+    "normY":-0.65346229000965,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75695907124187
+  },
+  "927":{
+    "targetX":868.92242431641,
+    "normY":-0.65599178636087,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75476802809014
+  },
+  "544":{
+    "targetX":906.70013427734,
+    "normY":-0.61971127692656,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78482987535519
+  },
+  "672":{
+    "targetX":703.52807617188,
+    "normY":-0.77166856338975,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63602486451081
+  },
+  "928":{
+    "targetX":833.28350830078,
+    "normY":-0.67184051578309,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74069583592208
+  },
+  "545":{
+    "targetX":855.78375244141,
+    "normY":-0.64874855003016,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76100283759902
+  },
+  "401":{
+    "targetX":853.00262451172,
+    "normY":-0.64903892892683,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76075519632633
+  },
+  "929":{
+    "targetX":799.07464599609,
+    "normY":-0.70421259490505,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.70998916976042
+  },
+  "546":{
+    "targetX":834.14074707031,
+    "normY":-0.67419739957827,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73855119416456
+  },
+  "169":{
+    "targetX":833.14996337891,
+    "normY":-0.66074700899573,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75060867974144
+  },
+  "201":{
+    "targetX":688.787109375,
+    "normY":-0.78315994549921,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62182031147726
+  },
+  "233":{
+    "targetX":695.16064453125,
+    "normY":-0.77114219730671,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63666294970964
+  },
+  "274":{
+    "targetX":893.68621826172,
+    "normY":-0.62693811781008,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77906905755315
+  },
+  "803":{
+    "targetX":901.93774414063,
+    "normY":-0.62422938908148,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78124110862586
+  },
+  "548":{
+    "targetX":851.49853515625,
+    "normY":-0.66937564436033,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74292411909777
+  },
+  "676":{
+    "targetX":717.48052978516,
+    "normY":-0.75052436707946,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.66084277587031
+  },
+  "932":{
+    "targetX":913.46069335938,
+    "normY":-0.6093753669607,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79288187149254
+  },
+  "549":{
+    "targetX":890.16192626953,
+    "normY":-0.63600593761761,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77168416292881
+  },
+  "85":{
+    "targetX":827.70074462891,
+    "normY":-0.67920582854361,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73394784724284
+  },
+  "101":{
+    "targetX":682.32867431641,
+    "normY":-0.78794853730182,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.6157411002718
+  },
+  "117":{
+    "targetX":672.30358886719,
+    "normY":-0.77934561162018,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62659430068297
+  },
+  "550":{
+    "targetX":917.2431640625,
+    "normY":-0.62023295757598,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78441766829703
+  },
+  "678":{
+    "targetX":577.3291015625,
+    "normY":-0.85437839910055,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.5196513746257
+  },
+  "806":{
+    "targetX":911.96276855469,
+    "normY":-0.61578974418737,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78791052217473
+  },
+  "234":{
+    "targetX":732.1376953125,
+    "normY":-0.73689026067165,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.67601238430022
+  },
+  "276":{
+    "targetX":671.48504638672,
+    "normY":-0.77814953455119,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62807905702846
+  },
+  "552":{
+    "targetX":904.99914550781,
+    "normY":-0.62381836603416,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78156934829768
+  },
+  "277":{
+    "targetX":744.99975585938,
+    "normY":-0.73620849263176,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.67675479708449
+  },
+  "139":{
+    "targetX":737.7734375,
+    "normY":-0.745509340371,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.66649517884197
+  },
+  "171":{
+    "targetX":920.84558105469,
+    "normY":-0.62268213271703,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78247489518512
+  },
+  "810":{
+    "targetX":857.47552490234,
+    "normY":-0.64456550033958,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76454909310782
+  },
+  "235":{
+    "targetX":783.65124511719,
+    "normY":-0.70371247508032,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71048487134937
+  },
+  "278":{
+    "targetX":762.77960205078,
+    "normY":-0.71860137501956,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.69542221982045
+  },
+  "683":{
+    "targetX":880.45159912109,
+    "normY":-0.6321357661822,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77485764699927
+  },
+  "556":{
+    "targetX":892.224609375,
+    "normY":-0.62162453615893,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78331534904225
+  },
+  "684":{
+    "targetX":864.99926757813,
+    "normY":-0.65629260386108,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75450647321096
+  },
+  "51":{
+    "targetX":674.39434814453,
+    "normY":-0.78086687591729,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62469746445393
+  },
+  "59":{
+    "targetX":577.04766845703,
+    "normY":-0.85877923152128,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.51234581242333
+  },
+  "279":{
+    "targetX":920.78350830078,
+    "normY":-0.61429574019575,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78907587948014
+  },
+  "86":{
+    "targetX":903.88464355469,
+    "normY":-0.62602204754526,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77980535775746
+  },
+  "813":{
+    "targetX":895.78356933594,
+    "normY":-0.62717781465828,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77887610619435
+  },
+  "118":{
+    "targetX":555.41107177734,
+    "normY":-0.86995382748647,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.49313318489191
+  },
+  "140":{
+    "targetX":605.52520751953,
+    "normY":-0.83288263196056,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.55344965568555
+  },
+  "172":{
+    "targetX":820.25708007813,
+    "normY":-0.68987983711832,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72392389816721
+  },
+  "236":{
+    "targetX":922.99871826172,
+    "normY":-0.62205674717322,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78297215997522
+  },
+  "280":{
+    "targetX":918.41790771484,
+    "normY":-0.62178521710577,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.783187808759
+  },
+  "408":{
+    "targetX":809.0615234375,
+    "normY":-0.69475049017583,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71925082996159
+  },
+  "816":{
+    "targetX":571.61199951172,
+    "normY":-0.85836356515185,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.51304189889307
+  },
+  "561":{
+    "targetX":874.99926757813,
+    "normY":-0.63248304924948,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77457420071423
+  },
+  "345":{
+    "targetX":839.99938964844,
+    "normY":-0.67466197169668,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73812683459305
+  },
+  "141":{
+    "targetX":748.92590332031,
+    "normY":-0.71953551899166,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.69445564070674
+  },
+  "690":{
+    "targetX":879.78515625,
+    "normY":-0.64172123583697,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76693797368228
+  },
+  "818":{
+    "targetX":612.32897949219,
+    "normY":-0.83223325239584,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.55442566102828
+  },
+  "237":{
+    "targetX":806.79699707031,
+    "normY":-0.69047776786603,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72335361482663
+  },
+  "563":{
+    "targetX":881.6376953125,
+    "normY":-0.64652541420982,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76289244902596
+  },
+  "112":{
+    "targetX":801.13635253906,
+    "normY":-0.69508385612299,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71892867028461
+  },
+  "564":{
+    "targetX":914.72479248047,
+    "normY":-0.62399740745661,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78142641079466
+  },
+  "692":{
+    "targetX":557.32916259766,
+    "normY":-0.8736010958341,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.48664270811086
+  },
+  "383":{
+    "targetX":859.404296875,
+    "normY":-0.65246471895888,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75781910144435
+  },
+  "164":{
+    "targetX":787.68695068359,
+    "normY":-0.69582589249453,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71821050349754
+  },
+  "283":{
+    "targetX":907.36157226563,
+    "normY":-0.63142742932259,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77543497567434
+  },
+  "87":{
+    "targetX":635.93902587891,
+    "normY":-0.80620829394786,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.59163179999869
+  },
+  "437":{
+    "targetX":691.97210693359,
+    "normY":-0.76979885645867,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63828655053583
+  },
+  "119":{
+    "targetX":859.33642578125,
+    "normY":-0.65771682456309,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75326527776517
+  },
+  "142":{
+    "targetX":805.5947265625,
+    "normY":-0.68986026512493,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72394254924114
+  },
+  "174":{
+    "targetX":917.86840820313,
+    "normY":-0.61064936373315,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79190110150971
+  },
+  "822":{
+    "targetX":602.32897949219,
+    "normY":-0.83992039151601,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.54270962393862
+  },
+  "195":{
+    "targetX":881.8876953125,
+    "normY":-0.6398092738172,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76853372934277
+  },
+  "284":{
+    "targetX":867.31524658203,
+    "normY":-0.64661950770574,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76281269801596
+  },
+  "348":{
+    "targetX":624.53381347656,
+    "normY":-0.81909641203143,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.57365587924926
+  },
+  "412":{
+    "targetX":917.09313964844,
+    "normY":-0.62408545712673,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78135609180637
+  },
+  "830":{
+    "targetX":898.86700439453,
+    "normY":-0.6395446177121,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76875398012334
+  },
+  "742":{
+    "targetX":839.93487548828,
+    "normY":-0.67542277740518,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73743072336476
+  },
+  "67":{
+    "targetX":910.056640625,
+    "normY":-0.62379342585712,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78158925392909
+  },
+  "783":{
+    "targetX":560.76672363281,
+    "normY":-0.87757730071671,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.47943516899241
+  },
+  "579":{
+    "targetX":895.93627929688,
+    "normY":-0.63244888878067,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77460209338737
+  },
+  "569":{
+    "targetX":915.45703125,
+    "normY":-0.61518254567984,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78838470018822
+  },
+  "349":{
+    "targetX":887.25866699219,
+    "normY":-0.62633996939325,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77955002581005
+  },
+  "825":{
+    "targetX":649.43579101563,
+    "normY":-0.80867023103866,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.58826223525896
+  },
+  "180":{
+    "targetX":873.02099609375,
+    "normY":-0.6399357118352,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76842845126789
+  },
+  "143":{
+    "targetX":804.99951171875,
+    "normY":-0.69597640031387,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71806465600679
+  },
+  "698":{
+    "targetX":680,
+    "normY":-0.78588388130552,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.61837409802171
+  },
+  "826":{
+    "targetX":548.45361328125,
+    "normY":-0.88058997356032,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.47387899137336
+  },
+  "70":{
+    "targetX":811.44458007813,
+    "normY":-0.67998502289282,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73322600106751
+  },
+  "286":{
+    "targetX":785.59686279297,
+    "normY":-0.69874837003117,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71536753866721
+  },
+  "699":{
+    "targetX":908.99176025391,
+    "normY":-0.62216327614498,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7828875128756
+  },
+  "827":{
+    "targetX":918.43908691406,
+    "normY":-0.62177532042439,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7831956657893
+  },
+  "30":{
+    "targetX":817.62951660156,
+    "normY":-0.67275284250754,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73986729411296
+  },
+  "453":{
+    "targetX":866.77618408203,
+    "normY":-0.64546204298959,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76379234812853
+  },
+  "44":{
+    "targetX":895.76525878906,
+    "normY":-0.62802742976354,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77819120238191
+  },
+  "828":{
+    "targetX":916.34729003906,
+    "normY":-0.60605762298358,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79542074251524
+  },
+  "60":{
+    "targetX":890.97216796875,
+    "normY":-0.62397132312443,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78144723936959
+  },
+  "273":{
+    "targetX":922.49084472656,
+    "normY":-0.60942389496339,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79284457256618
+  },
+  "88":{
+    "targetX":794.09149169922,
+    "normY":-0.6992486153427,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71487857286487
+  },
+  "415":{
+    "targetX":812.81335449219,
+    "normY":-0.68272737337673,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73067320577815
+  },
+  "120":{
+    "targetX":703.26629638672,
+    "normY":-0.76630930942517,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.64247182217457
+  },
+  "144":{
+    "targetX":891.51196289063,
+    "normY":-0.64411212661063,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76493108732299
+  },
+  "176":{
+    "targetX":652.32879638672,
+    "normY":-0.79312391647737,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.60906030334573
+  },
+  "208":{
+    "targetX":751.64294433594,
+    "normY":-0.72869733583011,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.68483588746072
+  },
+  "878":{
+    "targetX":813.27746582031,
+    "normY":-0.68173296777641,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73160109393492
+  },
+  "288":{
+    "targetX":887.92742919922,
+    "normY":-0.64338783130671,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76554039640404
+  },
+  "352":{
+    "targetX":795.71960449219,
+    "normY":-0.6952542289138,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71876390920626
+  },
+  "885":{
+    "targetX":908.89202880859,
+    "normY":-0.62068550209381,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78405963261129
+  },
+  "922":{
+    "targetX":841.77630615234,
+    "normY":-0.67568863121148,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73718713611372
+  },
+  "576":{
+    "targetX":842.33319091797,
+    "normY":-0.67024342563194,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74214132777872
+  },
+  "704":{
+    "targetX":642.32885742188,
+    "normY":-0.81132245927117,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.58459889418487
+  },
+  "706":{
+    "targetX":876.96850585938,
+    "normY":-0.65237620057477,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75789530472462
+  },
+  "571":{
+    "targetX":856.77624511719,
+    "normY":-0.66377777237033,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74792985560619
+  },
+  "577":{
+    "targetX":809.09149169922,
+    "normY":-0.68673516299116,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72690770797365
+  },
+  "705":{
+    "targetX":912.85083007813,
+    "normY":-0.6152073625266,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78836533478652
+  },
+  "862":{
+    "targetX":833.24102783203,
+    "normY":-0.674072419734,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73866526448314
+  },
+  "540":{
+    "targetX":879.72503662109,
+    "normY":-0.64992515405047,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75999821982191
+  },
+  "145":{
+    "targetX":714.2919921875,
+    "normY":-0.74893724326523,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.66264093267038
+  },
+  "177":{
+    "targetX":799.17370605469,
+    "normY":-0.68478257663583,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72874743411966
+  },
+  "599":{
+    "targetX":890.78363037109,
+    "normY":-0.6248690401242,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78072958359105
+  },
+  "587":{
+    "targetX":841.94146728516,
+    "normY":-0.66314035519114,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74849506966777
+  },
+  "290":{
+    "targetX":915.16271972656,
+    "normY":-0.6191920030222,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78523962164002
+  },
+  "707":{
+    "targetX":541.49621582031,
+    "normY":-0.88758244624448,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.4606488913681
+  },
+  "418":{
+    "targetX":903.87951660156,
+    "normY":-0.6275417986468,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77858287352801
+  },
+  "357":{
+    "targetX":680,
+    "normY":-0.7758299283775,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63094209103036
+  },
+  "677":{
+    "targetX":819.64727783203,
+    "normY":-0.67140207066886,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74109328663912
+  },
+  "708":{
+    "targetX":584.86492919922,
+    "normY":-0.84656619366607,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.53228345807637
+  },
+  "223":{
+    "targetX":730.45190429688,
+    "normY":-0.75005501401648,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.66137544250504
+  },
+  "731":{
+    "targetX":770.59844970703,
+    "normY":-0.71368191992017,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.70046992596332
+  },
+  "581":{
+    "targetX":872.6357421875,
+    "normY":-0.639410690344,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76886537773124
+  },
+  "709":{
+    "targetX":754.99969482422,
+    "normY":-0.72072835406848,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.69321759905656
+  },
+  "837":{
+    "targetX":883.52844238281,
+    "normY":-0.63481173045256,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77266685374735
+  },
+  "121":{
+    "targetX":873.11175537109,
+    "normY":-0.65561835007657,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75509243079432
+  },
+  "582":{
+    "targetX":854.94787597656,
+    "normY":-0.65320628788021,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75717999542629
+  },
+  "710":{
+    "targetX":548.49926757813,
+    "normY":-0.88629957492561,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.46311236594015
+  },
+  "838":{
+    "targetX":869.00677490234,
+    "normY":-0.64326776206278,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7656412908737
+  },
+  "66":{
+    "targetX":703.13201904297,
+    "normY":-0.76324986322976,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.64610343311249
+  },
+  "583":{
+    "targetX":840.64636230469,
+    "normY":-0.65740628043346,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75353631793474
+  },
+  "356":{
+    "targetX":613.12866210938,
+    "normY":-0.83518879553665,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.54996334042374
+  },
+  "685":{
+    "targetX":840.71466064453,
+    "normY":-0.67562617378174,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.737244378277
+  },
+  "714":{
+    "targetX":706.32061767578,
+    "normY":-0.75299625175681,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.65802480564201
+  },
+  "584":{
+    "targetX":842.25524902344,
+    "normY":-0.66074616937351,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7506094188446
+  },
+  "96":{
+    "targetX":838.08801269531,
+    "normY":-0.66568868912899,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74622956867557
+  },
+  "840":{
+    "targetX":823.97888183594,
+    "normY":-0.66992122827054,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74243218404949
+  },
+  "703":{
+    "targetX":637.32885742188,
+    "normY":-0.81295622003256,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.58232480997325
+  },
+  "585":{
+    "targetX":863.05828857422,
+    "normY":-0.64935096182103,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76048887459456
+  },
+  "713":{
+    "targetX":913.48657226563,
+    "normY":-0.61092954291763,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79168497117885
+  },
+  "421":{
+    "targetX":884.72497558594,
+    "normY":-0.6371136365899,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7707698839934
+  },
+  "711":{
+    "targetX":521.88720703125,
+    "normY":-0.89591919363185,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.4442170623491
+  },
+  "147":{
+    "targetX":856.12579345703,
+    "normY":-0.64852681425012,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76119180972906
+  },
+  "179":{
+    "targetX":912.53302001953,
+    "normY":-0.62904953795284,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77736521584215
+  },
+  "355":{
+    "targetX":633.06121826172,
+    "normY":-0.81237290878602,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.58313828297458
+  },
+  "136":{
+    "targetX":877.69952392578,
+    "normY":-0.63310882964778,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77406279449539
+  },
+  "294":{
+    "targetX":542.32922363281,
+    "normY":-0.89028978568977,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.45539444166179
+  },
+  "39":{
+    "targetX":760.59948730469,
+    "normY":-0.71524176265561,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.69887711434364
+  },
+  "422":{
+    "targetX":899.72467041016,
+    "normY":-0.61618869408759,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78759856099324
+  },
+  "146":{
+    "targetX":911.39825439453,
+    "normY":-0.61839973000762,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78586371205604
+  },
+  "588":{
+    "targetX":910.6240234375,
+    "normY":-0.61963816788413,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78488759762223
+  },
+  "45":{
+    "targetX":861.892578125,
+    "normY":-0.64710972867541,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76239687765208
+  },
+  "53":{
+    "targetX":683.31640625,
+    "normY":-0.78189871472138,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62340548595361
+  },
+  "61":{
+    "targetX":819.69122314453,
+    "normY":-0.6690718585743,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74319771801583
+  },
+  "74":{
+    "targetX":657.16363525391,
+    "normY":-0.79825416182551,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.60232075601647
+  },
+  "90":{
+    "targetX":841.93176269531,
+    "normY":-0.66164434947652,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74981781440947
+  },
+  "106":{
+    "targetX":652.30364990234,
+    "normY":-0.80980819786006,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.58669470994602
+  },
+  "122":{
+    "targetX":834.05389404297,
+    "normY":-0.66084389571761,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75052338104337
+  },
+  "380":{
+    "targetX":779.44653320313,
+    "normY":-0.71211781040141,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.70205998611878
+  },
+  "718":{
+    "targetX":691.71771240234,
+    "normY":-0.77980189608134,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62602635956319
+  },
+  "212":{
+    "targetX":921.98779296875,
+    "normY":-0.61437240181726,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78901619241008
+  },
+  "244":{
+    "targetX":884.99871826172,
+    "normY":-0.64218954814675,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76654587876465
+  },
+  "591":{
+    "targetX":847.31439208984,
+    "normY":-0.65048809743641,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75951644820475
+  },
+  "719":{
+    "targetX":865.74108886719,
+    "normY":-0.65514320130604,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75550472254147
+  },
+  "914":{
+    "targetX":849.40435791016,
+    "normY":-0.65063109023537,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75939395864014
+  },
+  "99":{
+    "targetX":578.9130859375,
+    "normY":-0.86353637545595,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.50428655372159
+  },
+  "592":{
+    "targetX":911.75866699219,
+    "normY":-0.61971705544244,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78482531253378
+  },
+  "199":{
+    "targetX":552.32916259766,
+    "normY":-0.88205883608827,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.47113926781643
+  },
+  "667":{
+    "targetX":921.42327880859,
+    "normY":-0.60615849911329,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79534387151264
+  },
+  "166":{
+    "targetX":864.02752685547,
+    "normY":-0.64872926791104,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76101927502239
+  },
+  "75":{
+    "targetX":572.81579589844,
+    "normY":-0.86374365849576,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.50393143621762
+  },
+  "361":{
+    "targetX":908.19818115234,
+    "normY":-0.61335826638485,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7898048094671
+  },
+  "849":{
+    "targetX":766.99328613281,
+    "normY":-0.72582380853699,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.68788065749871
+  },
+  "774":{
+    "targetX":544.70129394531,
+    "normY":-0.88646993753791,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.46278618155853
+  },
+  "149":{
+    "targetX":709.04058837891,
+    "normY":-0.75358555138612,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.65734984349438
+  },
+  "722":{
+    "targetX":680,
+    "normY":-0.77307337048259,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63431661167802
+  },
+  "843":{
+    "targetX":722.26336669922,
+    "normY":-0.75024232234096,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.66116295855745
+  },
+  "425":{
+    "targetX":784.99957275391,
+    "normY":-0.712539398365,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.70163210144465
+  },
+  "909":{
+    "targetX":641.09393310547,
+    "normY":-0.80377550267365,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.5949327199791
+  },
+  "362":{
+    "targetX":919.72485351563,
+    "normY":-0.61416249864995,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.789179589987
+  },
+  "773":{
+    "targetX":550.77276611328,
+    "normY":-0.88086149808729,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.47337408165996
+  },
+  "52":{
+    "targetX":594.11999511719,
+    "normY":-0.85230742881098,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.52304115210336
+  },
+  "596":{
+    "targetX":845.92553710938,
+    "normY":-0.6536963727255,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75675693078129
+  },
+  "724":{
+    "targetX":537.09411621094,
+    "normY":-0.88700217216323,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.46176525050908
+  },
+  "852":{
+    "targetX":629.04486083984,
+    "normY":-0.81383972374587,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.58108941141037
+  },
+  "217":{
+    "targetX":612.97943115234,
+    "normY":-0.83275822293242,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.55363683235352
+  },
+  "597":{
+    "targetX":922.03790283203,
+    "normY":-0.60813630373972,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79383262472248
+  },
+  "91":{
+    "targetX":662.30364990234,
+    "normY":-0.79724551280468,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.60365519322938
+  },
+  "107":{
+    "targetX":827.39306640625,
+    "normY":-0.68156778841816,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73175497934129
+  },
+  "123":{
+    "targetX":923.57135009766,
+    "normY":-0.61796307750043,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7862071195596
+  },
+  "598":{
+    "targetX":873.99169921875,
+    "normY":-0.63777719306332,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77022091117307
+  },
+  "182":{
+    "targetX":712.69769287109,
+    "normY":-0.75147718743082,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.6597590747925
+  },
+  "854":{
+    "targetX":834.12280273438,
+    "normY":-0.67714198749926,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73585238245558
+  },
+  "68":{
+    "targetX":592.89764404297,
+    "normY":-0.85321317264133,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.52156234721393
+  },
+  "300":{
+    "targetX":680,
+    "normY":-0.7731934315995,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.6341702589458
+  },
+  "727":{
+    "targetX":911.70007324219,
+    "normY":-0.61975105870827,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78479846153645
+  },
+  "428":{
+    "targetX":913.34747314453,
+    "normY":-0.62409266091326,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78135033793696
+  },
+  "889":{
+    "targetX":561.65124511719,
+    "normY":-0.86691792189465,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.49845091703984
+  },
+  "203":{
+    "targetX":667.30358886719,
+    "normY":-0.78752530217002,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.61628232040358
+  },
+  "728":{
+    "targetX":874.22381591797,
+    "normY":-0.64895560157865,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76082627923836
+  },
+  "230":{
+    "targetX":680,
+    "normY":-0.77592100399018,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63083008454486
+  },
+  "853":{
+    "targetX":645.61413574219,
+    "normY":-0.8126512369837,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.58275034708601
+  },
+  "601":{
+    "targetX":912.32604980469,
+    "normY":-0.62991664381767,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77666274652611
+  },
+  "729":{
+    "targetX":744.43365478516,
+    "normY":-0.74073453191414,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.67179785146273
+  },
+  "926":{
+    "targetX":668.71313476563,
+    "normY":-0.78658740201424,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.61747895429114
+  },
+  "594":{
+    "targetX":720.58911132813,
+    "normY":-0.75915172188864,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.65091371406163
+  },
+  "602":{
+    "targetX":830.61663818359,
+    "normY":-0.67089541173671,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74155198503586
+  },
+  "183":{
+    "targetX":880.78363037109,
+    "normY":-0.65071332537774,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75932349375997
+  },
+  "215":{
+    "targetX":824.09228515625,
+    "normY":-0.67872864407607,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73438915277301
+  },
+  "897":{
+    "targetX":726.36340332031,
+    "normY":-0.75557517492107,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.65506194748512
+  },
+  "167":{
+    "targetX":685.13995361328,
+    "normY":-0.77375831975187,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63348090943198
+  },
+  "366":{
+    "targetX":680,
+    "normY":-0.76887599817297,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63939791947856
+  },
+  "859":{
+    "targetX":893.04907226563,
+    "normY":-0.63722437412187,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77067833564009
+  },
+  "638":{
+    "targetX":883.68627929688,
+    "normY":-0.63699731820661,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7708660172803
+  },
+  "26":{
+    "targetX":912.69940185547,
+    "normY":-0.61374832021534,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78950174124751
+  },
+  "46":{
+    "targetX":875.89324951172,
+    "normY":-0.63425702495436,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7731222583111
+  },
+  "54":{
+    "targetX":914.53784179688,
+    "normY":-0.62260208923879,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78253858593394
+  },
+  "62":{
+    "targetX":608.96307373047,
+    "normY":-0.83226318218527,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.55438073160856
+  },
+  "780":{
+    "targetX":898.68621826172,
+    "normY":-0.63297707734608,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77417053648044
+  },
+  "92":{
+    "targetX":911.19134521484,
+    "normY":-0.63059966866828,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77610827715948
+  },
+  "108":{
+    "targetX":918.12573242188,
+    "normY":-0.6081388008069,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79383071177245
+  },
+  "124":{
+    "targetX":862.69958496094,
+    "normY":-0.65408835383385,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75641815510928
+  },
+  "152":{
+    "targetX":846.77624511719,
+    "normY":-0.67170448426636,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74081919914137
+  },
+  "159":{
+    "targetX":856.98291015625,
+    "normY":-0.66073821917956,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75061641716353
+  },
+  "216":{
+    "targetX":915.54425048828,
+    "normY":-0.62201194608705,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78300775151017
+  },
+  "248":{
+    "targetX":876.16424560547,
+    "normY":-0.63407830536238,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77326884242725
+  },
+  "607":{
+    "targetX":869.64660644531,
+    "normY":-0.64663454273751,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76279995289634
+  },
+  "735":{
+    "targetX":908.88464355469,
+    "normY":-0.62449989638368,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78102489039516
+  },
+  "815":{
+    "targetX":800.59521484375,
+    "normY":-0.69474241781002,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71925862726525
+  },
+  "170":{
+    "targetX":887.22454833984,
+    "normY":-0.62396535495679,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78145200480493
+  },
+  "347":{
+    "targetX":875.78369140625,
+    "normY":-0.65092255641207,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75914414016969
+  },
+  "736":{
+    "targetX":571.30969238281,
+    "normY":-0.85811654379668,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.5134549612794
+  },
+  "901":{
+    "targetX":874.71588134766,
+    "normY":-0.64715966886378,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76235448644061
+  },
+  "923":{
+    "targetX":822.28009033203,
+    "normY":-0.66889750433864,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7433546453003
+  },
+  "292":{
+    "targetX":642.3037109375,
+    "normY":-0.81080225705503,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.58532016875763
+  },
+  "737":{
+    "targetX":552.30102539063,
+    "normY":-0.87652716811302,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.48135239020885
+  },
+  "865":{
+    "targetX":836.25836181641,
+    "normY":-0.6727996551219,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73982472523419
+  },
+  "79":{
+    "targetX":609.32690429688,
+    "normY":-0.82831401081491,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.56026413367958
+  },
+  "153":{
+    "targetX":832.57299804688,
+    "normY":-0.66488086650521,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74694941820399
+  },
+  "185":{
+    "targetX":850.53106689453,
+    "normY":-0.64834594056061,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76134587498625
+  },
+  "866":{
+    "targetX":552.73400878906,
+    "normY":-0.87162273461136,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.49017732353569
+  },
+  "41":{
+    "targetX":860.69708251953,
+    "normY":-0.65610354869112,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.754670877532
+  },
+  "611":{
+    "targetX":843.79150390625,
+    "normY":-0.66565515745136,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74625947991192
+  },
+  "370":{
+    "targetX":877.94567871094,
+    "normY":-0.63449273539296,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77292882514082
+  },
+  "867":{
+    "targetX":672.32873535156,
+    "normY":-0.77801048998073,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62825128529908
+  },
+  "268":{
+    "targetX":740.7939453125,
+    "normY":-0.73115616049633,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.68221013549218
+  },
+  "138":{
+    "targetX":812.77941894531,
+    "normY":-0.68275166151706,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73065051063808
+  },
+  "674":{
+    "targetX":835.78814697266,
+    "normY":-0.65968255229283,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75154436342802
+  },
+  "37":{
+    "targetX":902.69946289063,
+    "normY":-0.62369485492943,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78166791410071
+  },
+  "71":{
+    "targetX":860.13220214844,
+    "normY":-0.65867746340406,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75242541105653
+  },
+  "307":{
+    "targetX":879.806640625,
+    "normY":-0.64019288833377,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76821420562684
+  },
+  "93":{
+    "targetX":912.21514892578,
+    "normY":-0.61248064018318,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79048558835743
+  },
+  "435":{
+    "targetX":694.99993896484,
+    "normY":-0.76876084731723,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63953636302566
+  },
+  "125":{
+    "targetX":879.06097412109,
+    "normY":-0.64665401833189,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76278344277732
+  },
+  "154":{
+    "targetX":680,
+    "normY":-0.77603913457141,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.63068475612913
+  },
+  "186":{
+    "targetX":857.36669921875,
+    "normY":-0.66554518732216,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74635755749662
+  },
+  "218":{
+    "targetX":915.71160888672,
+    "normY":-0.62189945451978,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78309710028067
+  },
+  "250":{
+    "targetX":829.20190429688,
+    "normY":-0.67749867205394,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73552399645773
+  },
+  "308":{
+    "targetX":919.50476074219,
+    "normY":-0.61043014591887,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79207009598486
+  },
+  "743":{
+    "targetX":539.17706298828,
+    "normY":-0.88190771588102,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.47142208334943
+  },
+  "436":{
+    "targetX":912.49896240234,
+    "normY":-0.61541982036614,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78819949549623
+  },
+  "389":{
+    "targetX":680,
+    "normY":-0.78066552644463,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62494906658138
+  },
+  "89":{
+    "targetX":801.82550048828,
+    "normY":-0.69010957532852,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72370489430422
+  },
+  "649":{
+    "targetX":914.75799560547,
+    "normY":-0.61560294568502,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78805647847342
+  },
+  "872":{
+    "targetX":832.06109619141,
+    "normY":-0.67561098464756,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73725829762951
+  },
+  "94":{
+    "targetX":705.4912109375,
+    "normY":-0.75429907790005,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.65653095972629
+  },
+  "175":{
+    "targetX":916.57684326172,
+    "normY":-0.61835153103735,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78590163765179
+  },
+  "110":{
+    "targetX":922.43041992188,
+    "normY":-0.62536561867124,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78033188002537
+  },
+  "873":{
+    "targetX":604.94671630859,
+    "normY":-0.83841299792401,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.54503545289464
+  },
+  "686":{
+    "targetX":909.72491455078,
+    "normY":-0.61632818323765,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78748940979989
+  },
+  "618":{
+    "targetX":834.62451171875,
+    "normY":-0.66651997399585,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74548717243463
+  },
+  "187":{
+    "targetX":912.22473144531,
+    "normY":-0.61866840292387,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78565221772972
+  },
+  "151":{
+    "targetX":699.94348144531,
+    "normY":-0.75854474629058,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.65162095414049
+  },
+  "251":{
+    "targetX":711.10339355469,
+    "normY":-0.76173117748946,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.64789321129375
+  },
+  "619":{
+    "targetX":700.22631835938,
+    "normY":-0.77410382486948,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.6330586610437
+  },
+  "747":{
+    "targetX":924.53790283203,
+    "normY":-0.60193815445473,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79854270907174
+  },
+  "438":{
+    "targetX":899.99914550781,
+    "normY":-0.62071650220947,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78403509097798
+  },
+  "562":{
+    "targetX":870.37078857422,
+    "normY":-0.65580335946785,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75493175433988
+  },
+  "620":{
+    "targetX":850.78375244141,
+    "normY":-0.66906949188781,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74319984864435
+  },
+  "47":{
+    "targetX":625.02850341797,
+    "normY":-0.81532478851791,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.57900387669533
+  },
+  "55":{
+    "targetX":894.69403076172,
+    "normY":-0.64209981190755,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.76662104820328
+  },
+  "63":{
+    "targetX":684.99993896484,
+    "normY":-0.78391353523603,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62087000996484
+  },
+  "78":{
+    "targetX":616.99578857422,
+    "normY":-0.82494400117986,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.56521446807151
+  },
+  "749":{
+    "targetX":680,
+    "normY":-0.77727536879867,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.62916055268818
+  },
+  "439":{
+    "targetX":887.25030517578,
+    "normY":-0.63017603437671,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77645229454053
+  },
+  "126":{
+    "targetX":761.63696289063,
+    "normY":-0.71164751978334,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.70253669483253
+  },
+  "156":{
+    "targetX":866.74987792969,
+    "normY":-0.65147811434452,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75866742814629
+  },
+  "188":{
+    "targetX":846.30999755859,
+    "normY":-0.65496718984166,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75565731666604
+  },
+  "220":{
+    "targetX":810.4609375,
+    "normY":-0.67991792225897,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73328822368224
+  },
+  "252":{
+    "targetX":794.95135498047,
+    "normY":-0.6943460186823,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71964130394248
+  },
+  "623":{
+    "targetX":847.32659912109,
+    "normY":-0.65511502341511,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75552915635058
+  },
+  "751":{
+    "targetX":839.70538330078,
+    "normY":-0.66981004668949,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.74253249178323
+  },
+  "111":{
+    "targetX":809.99951171875,
+    "normY":-0.68971868379516,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72407743869277
+  },
+  "127":{
+    "targetX":921.18499755859,
+    "normY":-0.62387868675011,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78152119882889
+  },
+  "624":{
+    "targetX":908.67321777344,
+    "normY":-0.62311655087667,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78212899449104
+  },
+  "752":{
+    "targetX":909.31030273438,
+    "normY":-0.62651825798244,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77940674388579
+  },
+  "105":{
+    "targetX":911.26153564453,
+    "normY":-0.61305820720234,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.79003774250466
+  },
+  "198":{
+    "targetX":881.70092773438,
+    "normY":-0.63221929417604,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77478949661928
+  },
+  "206":{
+    "targetX":910.94372558594,
+    "normY":-0.63148666639098,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77538673587469
+  },
+  "753":{
+    "targetX":867.69958496094,
+    "normY":-0.65310888233281,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75726401460652
+  },
+  "566":{
+    "targetX":795.59576416016,
+    "normY":-0.70243585277802,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71174705670766
+  },
+  "77":{
+    "targetX":740.45184326172,
+    "normY":-0.74409675472925,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.66807186709321
+  },
+  "157":{
+    "targetX":903.31384277344,
+    "normY":-0.6309009286624,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77586340177438
+  },
+  "754":{
+    "targetX":922.22485351563,
+    "normY":-0.6180079696546,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.78617183200837
+  },
+  "882":{
+    "targetX":709.99987792969,
+    "normY":-0.74951376451964,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.66198875881362
+  },
+  "253":{
+    "targetX":662.32873535156,
+    "normY":-0.79891039488403,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.60145006521427
+  },
+  "104":{
+    "targetX":847.37548828125,
+    "normY":-0.65426469681345,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75626563223751
+  },
+  "755":{
+    "targetX":830.88793945313,
+    "normY":-0.67708253267018,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73590708921231
+  },
+  "442":{
+    "targetX":849.99932861328,
+    "normY":-0.65405908046996,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.75644346732244
+  },
+  "289":{
+    "targetX":920.13568115234,
+    "normY":-0.61925114526228,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7851929820696
+  },
+  "628":{
+    "targetX":822.83215332031,
+    "normY":-0.68032881075243,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.73290702634112
+  },
+  "756":{
+    "targetX":814.42034912109,
+    "normY":-0.68382467358647,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.72964636351754
+  },
+  "161":{
+    "targetX":906.3857421875,
+    "normY":-0.63052670341943,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.77616755682972
+  },
+  "73":{
+    "targetX":745.45184326172,
+    "normY":-0.73521240760295,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.67783679134927
+  },
+  "315":{
+    "targetX":885.38940429688,
+    "normY":-0.62746626511273,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.7786437479011
+  },
+  "95":{
+    "targetX":796.23077392578,
+    "normY":-0.69435781924827,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.71962991797783
+  },
+  "443":{
+    "targetX":787.77954101563,
+    "normY":-0.70716070390867,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.70705285435206
+  },
+  "275":{
+    "targetX":699.99987792969,
+    "normY":-0.7565156685015,
+    "_tableListeners":{
+      "collision":["<reference cycle>"]
+    },
+    "collision":"<type 'function' is not supported by JSON.>",
+    "normX":-0.65397556782477
+  }
+}
